@@ -1,1 +1,1 @@
-# Insta_blocker
+# InstagramBlocker
